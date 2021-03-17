@@ -17,4 +17,4 @@ const obj = {
   name: 'Denis',
 };
 
-const name = obj.name;
+console.log(obj);
