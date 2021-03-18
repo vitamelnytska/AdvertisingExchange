@@ -14,7 +14,7 @@ const arrow = (y) => y + 1;
 arrow(2);
 
 const obj = {
-  name: 'Denis',
+  name: 'Denis
 };
 
 console.log(obj);
