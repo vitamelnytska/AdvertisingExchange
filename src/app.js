@@ -8,7 +8,7 @@ function foo(name) {
 foo('Denis');
 const x = 200;
 
-console.log(x, a);
+consoooole.log(x, a);
 
 const arrow = (y) => y + 1;
 arrow(2);
