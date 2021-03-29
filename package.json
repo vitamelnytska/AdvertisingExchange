@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "react-scrips start",
+    "build": "react-scripts build",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix --color",
     "prepare": "husky install"
