@@ -1,0 +1,9 @@
+sudo: false
+
+language: typescript
+typescript:
+  - ^4.2.4
+
+branches:
+  only:
+    - master
