@@ -17,15 +17,6 @@ export const BlursApi = {
 //     );
 //     return data.data;
 //   },
-// export const BlursApi = {
-//   async fetchBlurs(userId?: string): Promise<Blur[]> {
-//     const try_data =  axios.get('https://trycode.pw/c/RI7VR.json');
-//     try_data.then(({ data }) => data);
-//     const { data } = await axios.get<Response<Blur[]>>(
-//             userId ? `/blurs/user/${userId}` : '/blurs',
-//           );
-//     return data.data;
-//   },
 
 
   // async fetchBlurData(id: string): Promise<Blur> {

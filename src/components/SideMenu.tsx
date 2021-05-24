@@ -42,7 +42,7 @@ export const SideMenu: React.FC<SideMenuProps> = ({
         <li className={classes.sideMenuListItem}>
           <Link to="/home">
             <IconButton className={classes.logo} aria-label="" color="primary">
-              <LAIcon className={classes.logoIcon} />
+              <LAIcon className={classes.logoIcon}/>
             </IconButton>
           </Link>
         </li>
